@@ -1,3 +1,3 @@
 ## 780_MarioCesa_ProjetoRisco
 
-A brief description
+Analise de risco de um portifólio de investimento
